@@ -1,20 +1,17 @@
-## Hi there 👋
-
-
-**ankitasawarkar/ankitasawarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I am Ankita, a 
 <!--
-"Hi there! I'm a passionate software developer specializing in backend REST API development, with experience in Java Spring Boot and Python across multiple projects. I thrive on learning new technologies and am currently diving deep into machine learning and data-driven applications. While I love reading about personal development, I sometimes need a nudge to stay on track with my goals. I’ve also dabbled in frontend development with React and Bootstrap and have utilized AWS for deployment along with CI/CD tools like Jenkins and Bitbucket. Excited to connect and collaborate on innovative projects!"
+Hi there! I'm a passionate **Software Developer** specializing in backend REST API development, with experience in Java Spring Boot and Python across multiple projects. I thrive on learning new technologies and am currently diving deep into machine learning and data-driven applications. While I love reading about personal development, I sometimes need a nudge to stay on track with my goals. I’ve also dabbled in frontend development with React and Bootstrap and have utilized AWS for deployment along with CI/CD tools like Jenkins and Bitbucket.I'm eager to interact and work with you on creative initiatives!
 
-"Hey! I'm an enthusiastic software developer with expertise working on many projects using Python and Java Spring Boot, with a focus on backend REST API development. I'm always eager to learn new technologies, and right now I'm getting into data-driven apps and machine learning. I enjoy reading books about personal growth, but I occasionally need a little encouragement to keep moving in the right direction. Along with using AWS for deployment and CI/CD technologies like Jenkins and Bitbucket, I've also experimented with frontend development using React and Bootstrap. I'm eager to interact and work with you on creative initiatives!"
+"Hey! I'm an enthusiastic software developer with expertise working on many projects using Python and Java Spring Boot, with a focus on backend REST API development. I'm always eager to learn new technologies, and right now I'm getting into data-driven apps and machine learning. I enjoy reading books about personal growth, but I occasionally need a little encouragement to keep moving in the right direction. Along with using AWS for deployment and CI/CD technologies like Jenkins and Bitbucket, I've also experimented with frontend development using React and Bootstrap. "
 -->
 
-Here are some ideas to get you started:
+## 🎓 I'm a Software Developer with Machine Learning Engineering
 
 - 🔭 I’m currently working on something cool. 
-- 🌱 I’m currently learning <b>DevOps, AWS</b>
-- 👯 I’m looking to collaborate on a project that involves developing a REST API integrated with a machine learning model to enhance data accessibility and usability.
+- 🌱 I’m currently learning AWS and revising others.
+- 👯 I’m looking to collaborate with anyone on any project.
 - 🤔 I’m looking for help as I track my career in machine learning and research.
-- 💬 Ask me about my skill sets.
+- 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitasawarkar/)
 
 ## 🧰 Languages and Tools:
